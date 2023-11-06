@@ -46,3 +46,12 @@ Object.keys(dog);
 //-------------
 Object.keys(cat);
 //-------------
+
+// add a value to an object
+var object = {};
+
+var cat = {};
+cat["legs"] = 3;
+cat["name"] = "Harmony";
+cat["color"] = "Tortoiseshell";
+cat;
