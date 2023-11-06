@@ -20,3 +20,6 @@ var cat = {
   color: "Tortoiseshell"
 };
 cat;
+
+var cat = { legs: 3, name: "Harmony", color: "Tortoiseshell" };
+cat;
