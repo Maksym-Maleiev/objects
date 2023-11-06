@@ -55,3 +55,10 @@ cat["legs"] = 3;
 cat["name"] = "Harmony";
 cat["color"] = "Tortoiseshell";
 cat;
+
+// we add the keys using a dot notation
+var cat = {};
+cat.legs = 3;
+cat.name = "Harmony";
+cat.color = "Tortoiseshell";
+cat;
