@@ -29,3 +29,20 @@ cat["name"];
 
 cat.name;
 
+var dog = {
+  name: "Pancake",
+  age: 6,
+  color: "white",
+  bark /* гавкання */: "Yip yap yip"
+};
+
+var cat = {
+  name: "Harmony",
+  age: 8,
+  color: "tortoiseshell"
+};
+
+Object.keys(dog);
+//-------------
+Object.keys(cat);
+//-------------
