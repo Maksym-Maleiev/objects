@@ -81,3 +81,4 @@ var dinosaurs = [
 ];
 dinosaurs[0];
 dinosaurs[0]["name"];
+dinosaurs[1].period;
