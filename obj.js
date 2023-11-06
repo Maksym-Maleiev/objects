@@ -23,3 +23,9 @@ cat;
 
 var cat = { legs: 3, name: "Harmony", color: "Tortoiseshell" };
 cat;
+
+// we extract the value from the object
+cat["name"];
+
+cat.name;
+
