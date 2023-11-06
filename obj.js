@@ -79,3 +79,5 @@ var dinosaurs = [
   { name: "Stegosaurus", period: "Late Jurassic" },
   { name: "Plateosaurus", period: "Triassic" }
 ];
+dinosaurs[0];
+dinosaurs[0]["name"];
