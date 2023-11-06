@@ -13,3 +13,10 @@ var cat = {
   color: "Tortoiseshell"
 };
 cat;
+
+var cat = {
+  legs: 3,
+  "full name": "Harmony Philomena Snuggly-Pants Morgan",
+  color: "Tortoiseshell"
+};
+cat;
