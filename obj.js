@@ -63,9 +63,12 @@ cat.name = "Harmony";
 cat.color = "Tortoiseshell";
 cat;
 
+//-------------
 var dog = {
   name: "Pancake",
   legs: 4,
   isAwesome: true
 };
-dog.isBrown;
+dog.isBrown; /* <= mistake */
+
+dog;
