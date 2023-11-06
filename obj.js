@@ -72,3 +72,10 @@ var dog = {
 dog.isBrown; /* <= mistake */
 
 dog;
+
+// we combine arrays and objects
+var dinosaurs = [
+  { name: "Tyrannosaurus Rex", period: "Late Cretaceous" },
+  { name: "Stegosaurus", period: "Late Jurassic" },
+  { name: "Plateosaurus", period: "Triassic" }
+];
