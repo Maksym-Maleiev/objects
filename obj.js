@@ -122,6 +122,16 @@ var movies = {
     actors: ["Albert Brooks", "Ellen DeGeneres", "Alexander Gould"],
     format: "DVD"
   },
-  
-
+  "Star Wars: Episode VI - Return of the Jedi": {
+    releaseData: 1983,
+    duration: 134,
+    actors: ["Mark Hamill", "Harrison Ford", "Carrie Fisher"],
+    format: "DVD"
+  },
+  "Harry Potter and Goblet of Fire": {
+    releaseData: 2005,
+    duration: 157,
+    actors: ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"],
+    format: "Blue-ray"
+  }
 };
