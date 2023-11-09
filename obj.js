@@ -99,3 +99,9 @@ friends[0].luckyNumbers[1];
 
 // examine objects in the console
 friends[1];
+
+// Where objects will come in handy?
+// we conduct personal accounting
+var owedMoney = {};
+owedMoney["Jimmy"] = 5;
+owedMoney["Anna"] = 7;
