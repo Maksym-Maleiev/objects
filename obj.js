@@ -113,3 +113,15 @@ owedMoney["Jimmy"];
 
 owedMoney["Jimmy"] += 3;
 owedMoney["Jimmy"];
+
+// we store information about your movies
+var movies = {
+  "Finding Nemo": {
+    releaseData: 2003,
+    duration: 100,
+    actors: ["Albert Brooks", "Ellen DeGeneres", "Alexander Gould"],
+    format: "DVD"
+  },
+  
+
+};
