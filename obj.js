@@ -102,6 +102,14 @@ friends[1];
 
 // Where objects will come in handy?
 // we conduct personal accounting
-var owedMoney = {};
+var owedMoney = {}; /* owe - бути в боргу перед кимось; owed money - заборгував гроші */
 owedMoney["Jimmy"] = 5;
 owedMoney["Anna"] = 7;
+
+owedMoney["Jimmy"];
+
+owedMoney["Jimmy"];
+// undefined
+
+owedMoney["Jimmy"] += 3;
+owedMoney["Jimmy"];
