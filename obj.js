@@ -135,3 +135,8 @@ var movies = {
     format: "Blue-ray"
   }
 };
+
+movies;
+
+var findingNemo = movies["Finding Nemo"];
+findingNemo.duration;
