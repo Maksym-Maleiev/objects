@@ -140,3 +140,5 @@ movies;
 
 var findingNemo = movies["Finding Nemo"];
 findingNemo.duration;
+
+findingNemo.format;
