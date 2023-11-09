@@ -158,3 +158,5 @@ var hobbit = {
 }
 
 movies["TheHobbit"] = hobbit;
+
+Object.keys(movies);
