@@ -149,3 +149,12 @@ var cars = {
   format: "Blue-ray"
 };
 movies["Cars"] = cars;
+
+var hobbit = {
+  releaseData: 2012,
+  duration: 169,
+  actors: ["Ian McKellen", "Martin Freeman", "Richard Armitage"],
+  format: "Blue-ray"
+}
+
+movies["TheHobbit"] = hobbit;
