@@ -92,3 +92,5 @@ var friends = [anna, dave, kate];
 friends[0];
 
 friends[1].luckyNumbers;
+
+friends[2].name;
