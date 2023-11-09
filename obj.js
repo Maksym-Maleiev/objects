@@ -148,4 +148,4 @@ var cars = {
   actors: ["Owen Wilson", "Bonnie Hunt", "Paul Newman"],
   format: "Blue-ray"
 };
-movies["Cars"];
+movies["Cars"] = cars;
