@@ -96,3 +96,6 @@ friends[1].luckyNumbers;
 friends[2].name;
 
 friends[0].luckyNumbers[1];
+
+// examine objects in the console
+friends[1];
