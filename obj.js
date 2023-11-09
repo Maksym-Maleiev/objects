@@ -142,3 +142,10 @@ var findingNemo = movies["Finding Nemo"];
 findingNemo.duration;
 
 findingNemo.format;
+
+var cars = {
+  releaseData: 2006,
+  duration: 117,
+  actors: ["Owen Wilson", "Bonnie Hunt", "Paul Newman"],
+  format: "Blue-ray"
+};
