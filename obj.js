@@ -135,7 +135,6 @@ var movies = {
     format: "Blue-ray"
   }
 };
-
 movies;
 
 var findingNemo = movies["Finding Nemo"];
@@ -149,3 +148,4 @@ var cars = {
   actors: ["Owen Wilson", "Bonnie Hunt", "Paul Newman"],
   format: "Blue-ray"
 };
+movies["Cars"];
