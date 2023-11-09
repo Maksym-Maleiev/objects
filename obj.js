@@ -90,3 +90,5 @@ var kate = { name: "Kate", age: 9, luckyNumbers: [1, 2, 3] };
 
 var friends = [anna, dave, kate];
 friends[0];
+
+friends[1].luckyNumbers;
